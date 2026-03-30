@@ -59,6 +59,16 @@ Example TXT:
 1, Juan, 18, Python, 4.5, True
 
 # Summary
+This program:
+* Adds students
+* Shows students
+* Searches students
+* Updates students
+* Deletes students
+* Save files
+
+# Author
+Student project
 
 
 
